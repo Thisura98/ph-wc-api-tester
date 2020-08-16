@@ -1,15 +1,15 @@
 # ph-wc-api-tester
 Tests your WooCommerce Site's ability to process PayHere Payment Notifications.
 
-## How to use ##
+## Usage Instructions ##
 
 #### 1. Create a Request Bin ###
-![Step One](https://via.placeholder.com/150)
+![Step One](https://github.com/Thisura98/ph-wc-api-tester/blob/master/one_setup_rbin.png?raw=true)
 
 Creat a free request bin and make note of the `Endpoint` for your new bin.
 
 #### 2. Setup the Plugin ####
-![Step Two](https://via.placeholder.com/150)
+![Step Two](https://github.com/Thisura98/ph-wc-api-tester/blob/master/two_setup_plugin.png)
 
 Upload the folder named, 'payhere-wcapi-tester' to the following location on your Wordpress Installation.
 
