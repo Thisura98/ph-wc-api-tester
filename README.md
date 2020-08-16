@@ -6,7 +6,7 @@ Tests your WooCommerce Site's ability to process PayHere Payment Notifications.
 #### 1. Create a Request Bin ###
 ![Step One](https://github.com/Thisura98/ph-wc-api-tester/blob/master/one_setup_rbin.png?raw=true)
 
-Creat a free request bin and make note of the `Endpoint` for your new bin.
+Creat a free [request bin](https://requestbin.com/) and make note of the `Endpoint` for your new bin.
 
 #### 2. Setup the Plugin ####
 ![Step Two](https://github.com/Thisura98/ph-wc-api-tester/blob/master/two_setup_plugin.png)
